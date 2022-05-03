@@ -5,6 +5,7 @@ project(imgui_rosmon)
 find_package(catkin REQUIRED COMPONENTS
     imgui_ros
     rosmon_msgs
+    rosfmt
 )
 
 catkin_package()

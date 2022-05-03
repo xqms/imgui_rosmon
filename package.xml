@@ -8,6 +8,7 @@
     <buildtool_depend>catkin</buildtool_depend>
     <depend>imgui_ros</depend>
     <depend>rosmon_msgs</depend>
+    <depend>rosfmt</depend>
 
     <export>
         <imgui_ros plugin="${prefix}/imgui_plugins.xml" />
