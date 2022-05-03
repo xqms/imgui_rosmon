@@ -1,0 +1,10 @@
+<library path="lib/libimgui_rosmon">
+    <class name="imgui_rosmon/GUI" type="imgui_rosmon::GUI" base_class_type="imgui_ros::Window">
+        <description>
+            rosmon GUI
+        </description>
+        <qtgui>
+            <label>rosmon</label>
+        </qtgui>
+    </class>
+</library>
